@@ -1,0 +1,22 @@
+body{
+  font-family:sans serif;
+  font-weight:20px;
+  font-size:18px;
+  color:white;
+  background-image:url(https://www.secs.ac.in/uploadfolder/blogs/20-07-01-11-46-59most-effective-way-to-study-according-to-science.jpg)
+}
+ .form-group{
+        margin:0 auto 0px 40px;
+        padding:0.25rem;
+        background-color:rgb(0,0,50);
+        width:40%;
+   box-shadow:2px 4px 4px;
+        }
+textarea{
+  width:350px;
+  height:80px;
+}
+#smallContainer{
+        display:flex;
+        flex-direction:column;
+}
